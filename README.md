@@ -3,7 +3,7 @@
 
 #### <List>
 
-    🌱 I’m currently improving my skills in `React` && `Typescript` /
+    🌱 I’m currently improving my skills in React && Typescript /
     
     ⚡ Also, I really like automate building processes with gulp/webpack, creating configurable starter templates /
     
