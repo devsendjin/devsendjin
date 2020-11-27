@@ -11,9 +11,8 @@
     
     💬 Ask me about you'r interesed in, links below /
 #### </List>
-### **`📫 Connect with me:`**
+### **`📫 Connect with me:`**&nbsp;
 
-&nbsp;
 [<img align="left" alt="devsendjin | Telegram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 
 [<img align="left" alt="devsendjin | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
