@@ -21,4 +21,4 @@
 
 [telegram]: https://t.me/devsendjin
 [gmail]: mailto:anatoliy.skichko.dev@gmail.com
-[linkedin]: www.linkedin.com/in/anatoliy-skichko
+[linkedin]: https://www.linkedin.com/in/anatoliy-skichko
