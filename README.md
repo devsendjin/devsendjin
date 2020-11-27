@@ -11,8 +11,8 @@
     
     🔥 Fun fact: no fun, just work /
 #### </List>
-**`📫 How to reach me:`**
-[<img align="left" alt="devsendjin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+### **`📫 Connect with me:`**
 
+[<img align="left" alt="devsendjin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 
 [telegram]: https://t.me/devsendjin
