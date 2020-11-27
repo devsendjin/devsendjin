@@ -11,3 +11,5 @@
     
     🔥 Fun fact: no fun, just work /
 #### </List>
+**`📫 How to reach me:`**
+[<img align="left" alt="devsendjin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">][mailto:anatoliy.skichko.dev@gmail.com?subject=Mail from Our Site]
