@@ -19,6 +19,9 @@
 
 [<img align="left" alt="devsendjin | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;
 
+&nbsp;
+&nbsp;
+
 ### **`Skills / Languages / Tools:`** 📃
 <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/react.svg" />
 
