@@ -20,5 +20,5 @@
 [<img align="left" alt="devsendjin | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [telegram]: https://t.me/devsendjin
-[gmail]: mailto:anatoliy.skichko.dev@gmail.com?subject=Mail from github
+[gmail]: mailto:anatoliy.skichko.dev@gmail.com
 [linkedin]: www.linkedin.com/in/anatoliy-skichko
