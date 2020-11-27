@@ -1,5 +1,5 @@
 ## <Title> Hi there 👋 </Title>
-### I'm Tolik, Front End Engineer, welcome to my profile :) ⬇️
+### I'm Tolik, Front End Engineer, welcome to my profile :) 📃
 
 #### <List>
 
