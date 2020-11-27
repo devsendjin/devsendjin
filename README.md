@@ -19,6 +19,9 @@
 
 [<img align="left" alt="devsendjin | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+### **`Skills / Languages / Tools:`** 📃
+[<img align="left" alt="devsendjin | Telegram" width="45px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/react.svg" />]
+
 [telegram]: https://t.me/devsendjin
 [gmail]: mailto:anatoliy.skichko.dev@gmail.com
 [linkedin]: https://www.linkedin.com/in/anatoliy-skichko
