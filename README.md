@@ -1,16 +1,13 @@
-### Hi there 👋
+## <Title> Hi there 👋</Title>
+#### <Description>I'm Tolik - Front End Engineer \</Description>
 
-<!--
-**devsendjin/devsendjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### <List>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🌱 I’m currently improving my skills in `React` && `Typescript` /
+    
+    ⚡ Also, I really like automate building processes with gulp/webpack, creating configurable starter templates /
+    
+    💬 Ask me about you'r interesed in, links below /
+    
+    🔥 Fun fact: no fun, just work /
+#### </List>
