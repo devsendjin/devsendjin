@@ -21,7 +21,7 @@
 
 &nbsp;
 
-### **`Skills / Languages / Tools:`** <img align="left" alt="Smile" width="30px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/code-smile.svg" />
+### **`Skills / Languages / Tools:`** ⚙️ <img align="left" alt="Smile" width="30px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/code-smile.svg" />
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/html.svg" />
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/css.svg" />
 <img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/sass.svg" />
