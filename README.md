@@ -34,7 +34,6 @@
 <img align="left" alt="PHP" width="55px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/php.svg" />
 <img align="left" alt="Wordpress" width="45px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/wordpress.svg" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/mysql.svg" />
-<img align="left" alt="GIT" width="55px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/git.svg" />
 <img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/docker.svg" />
 
 [telegram]: https://t.me/devsendjin
