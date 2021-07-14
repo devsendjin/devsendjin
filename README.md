@@ -5,7 +5,7 @@
 
     🌱 Really like all the stuff related to JAM stack (prefer React) /
     
-    ⚡ Also, I really like automate building processes with gulp/webpack, creating configurable starter templates /
+    ⚡ Can spend hours configuring webpack or other bundlers from scratch, just because like it /
     
     🔥 Fun fact: no fun, just work /
     
