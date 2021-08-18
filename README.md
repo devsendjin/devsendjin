@@ -13,11 +13,11 @@
 #### </List>
 ### **`📫 Connect with me:`**&nbsp;
 
-[<img align="left" alt="devsendjin | Telegram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="@tech_junkie | Telegram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 
-[<img align="left" alt="devsendjin | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="anatoliy.skichko.dev@gmail.com | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
-[<img align="left" alt="devsendjin | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;
+[<img align="left" alt="/in/anatoliy-skichko | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;
 
 &nbsp;
 
@@ -36,6 +36,6 @@
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/mysql.svg" />
 <img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/devsendjin/devsendjin/main/images/docker.svg" />
 
-[telegram]: https://t.me/devsendjin
+[telegram]: https://t.me/tech_junkie
 [gmail]: mailto:anatoliy.skichko.dev@gmail.com
 [linkedin]: https://www.linkedin.com/in/anatoliy-skichko
